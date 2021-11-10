@@ -1,0 +1,9 @@
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\obj\Debug\2D TopDown Shooter.csproj.AssemblyReference.cache
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\obj\Debug\2D TopDown Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\obj\Debug\2D TopDown Shooter.AssemblyInfoInputs.cache
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\obj\Debug\2D TopDown Shooter.AssemblyInfo.cs
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\obj\Debug\2D TopDown Shooter.csproj.CoreCompileInputs.cache
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\bin\Debug\2D TopDown Shooter.dll
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\bin\Debug\2D TopDown Shooter.pdb
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\obj\Debug\2D TopDown Shooter.dll
+C:\Users\alexr\Documents\Godot\2D TopDown Shooter\.mono\temp\obj\Debug\2D TopDown Shooter.pdb
