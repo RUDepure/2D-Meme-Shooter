@@ -41,3 +41,11 @@ func fire():
 	bullet_instance.apply_impulse(Vector2(), Vector2(bullet_speed, 0).rotated(rotation))
 	#Now this bullet is instantiated as a child of our root seed
 	get_tree().get_root().call_deferred("add_child", bullet_instance)
+
+
+func _on_Area2D_body_entered(body:Node):
+	if "Enemy" in body.name:
+		kill()
+
+func kill():
+	get_tree().reload_current_scene()
