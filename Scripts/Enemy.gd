@@ -6,6 +6,7 @@ onready var visibility_notifier = get_node(visibility_notifier_path)
 
 var max_hp = 400
 var current_hp
+var max_enemies = 20
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
@@ -26,6 +27,9 @@ func OnHit(damage):
 	current_hp -= damage
 	if current_hp <= 0:
 		OnDeath()
+		max_enemies -= 1
+	if max_enemies <= 0:
+		get_tree().change_scene("res://TitleScreen.tscn")
 
 func OnDeath():
 	queue_free()
